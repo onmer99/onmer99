@@ -1,5 +1,3 @@
-- 👋 Hi, I’m 형진
-- 👀 I’m interested in 프론트엔드 개발자
-- 🌱 I’m currently learning 리액트, 넥스트
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there! :) 👋
+I’m currently studying in Busan, Korea.
+
