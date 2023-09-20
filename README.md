@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=FrontEnd&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Greetings!&fontSize=90" />
 
 Hi there! :) 👋
 I’m currently studying in Busan, Korea.
