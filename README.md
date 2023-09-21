@@ -2,7 +2,7 @@
 
 Hi there! :) 👋
 I’m currently studying in Busan, Korea.
-I’m currently learning everything I need to be front engineer.
+I’m currently learning everything I need to be front-end engineer.
 
 <div align="center">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
