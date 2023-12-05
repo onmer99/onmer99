@@ -10,5 +10,6 @@ I’m currently studying in Busan, Korea. And learning everything I need to be F
 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <br>
 	<img src="https://img.shields.io/badge/reactquery-E34F26?&style=flat&logo=ReactQuery&logoColor=white"/>
 	<img src="https://img.shields.io/badge/radixicon-1572B6?style=flat&logo=radixui&logoColor=fff"/>
+	<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=fff"/>
 	<img src="https://img.shields.io/badge/nextui-000000?style=flat&logo=NextUI&logoColor=white" />
 </div>
